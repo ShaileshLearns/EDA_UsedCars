@@ -23,5 +23,5 @@ In this project, we intend to predict the price of used cars based on their feat
 5.  Data Preparation for modelling (Removing Features, Feature Engineering techniques like One-Hot Encoding, Standardizing Data, Splitting into train and test data)
 6.  Modeling (Regression Models : Linear, Ridge, Lasso, Random Forest, KNN)
 7.  Making predictions, comparing with actual test data, evaluating using R2 score, RMSE scores.
-8.  Comparing different model performances and thenchossing the most effective one.
+8.  Comparing different model performances and then chossing the most effective one.
   
